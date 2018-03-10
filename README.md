@@ -1,10 +1,10 @@
-Vertcore
-=======
+Vertcoin Cash core
+==================
 
 [![NPM Package](https://img.shields.io/npm/v/vertcore.svg?style=flat-square)](https://www.npmjs.org/package/vertcore)
 [![Build Status](https://img.shields.io/travis/vertcoin-project/vertcore.svg?branch=master&style=flat-square)](https://travis-ci.org/vertcoin-project/vertcore)
 
-Infrastructure to build Vertcoin and blockchain-based applications for the next generation of financial technology.
+Infrastructure to build Vertcoin Cash and blockchain-based applications for the next generation of financial technology.
 
 **Note:** If you're looking for the Vertcore Library please see: https://github.com/vertcoin-project/vertcore-lib
 
