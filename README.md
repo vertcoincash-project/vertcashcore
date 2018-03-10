@@ -6,6 +6,8 @@ Vertcoin Cash core
 
 Infrastructure to build Vertcoin Cash and blockchain-based applications for the next generation of financial technology.
 
+Vertcoin Cash will support ASIC's and be multiple algorithm
+
 **Note:** If you're looking for the Vertcore Library please see: https://github.com/vertcoin-project/vertcore-lib
 
 ## Getting Started
